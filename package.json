@@ -14,7 +14,7 @@
     "@types/react-dom": "16.8.5",
     "@types/react-infinite-scroller": "^1.2.1",
     "@types/react-resizable": "^1.7.1",
-    "@types/react-router": "^5.0.3",
+    "@types/react-router": "^5.1.18",
     "blob-to-buffer": "^1.2.8",
     "data-uri-to-buffer": "^2.0.1",
     "dotenv": "^8.1.0",
